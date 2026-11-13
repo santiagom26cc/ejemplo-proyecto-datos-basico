@@ -1,0 +1,9 @@
+id_venta,fecha,producto_id,cantidad,precio_unitario,estado
+V1,2026-08-01,P1,2,10000,completada
+V2,2026-08-03,P2,5,2000,completada
+V3,2026-08-05,P3,1,15000,completada
+V4,2026-08-07,P4,2,8000,cancelada
+V5,2026-09-01,P1,3,10000,completada
+V6,2026-09-03,P2,4,2000,completada
+V7,2026-09-05,P3,2,15000,completada
+V8,2026-09-07,P4,1,8000,completada
