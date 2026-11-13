@@ -4,7 +4,9 @@ Una línea por decisión: qué decidimos y por qué. Lo más reciente arriba.
 
 ## Decisiones
 
-- AAAA-MM-DD · Decisión · Por qué
+- 2026-11-13 · Los indicadores usan solo ventas completadas · Una venta cancelada no entró a la caja.
+- 2026-11-13 · No calculamos margen · Falta el costo de P4 y no lo vamos a inventar.
+- 2026-11-13 · Usamos datos sintéticos · Es el caso de ejemplo del curso; lo declaramos en el README.
 
 ## Limpieza (desde la sesión 4)
 
